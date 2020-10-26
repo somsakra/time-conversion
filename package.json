@@ -4,7 +4,7 @@
   "author": "Somsak Rakjoi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/"
+    "url": "https://github.com/time-conversion"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
